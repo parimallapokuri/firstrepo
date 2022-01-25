@@ -1,5 +1,5 @@
-01 line A 
-02 line B 
-03 line C 
-04 line D 
-05 line E 
+01 line A Trying to edit for resolving merge conflicts
+02 line B Trying to edit for resolving merge conflicts
+03 line C Trying to edit for resolving merge conflicts
+04 line D Trying to edit for resolving merge conflicts
+05 line E Trying to edit for resolving merge conflicts
